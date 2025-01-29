@@ -30,6 +30,11 @@ The solution must fulfil the following criteria:
 
 ## Installation
 
+Install NodeJS
+https://nodejs.org/en/download
+
+Open Terminal (MacOS or Linux) or CMD (Windows), and run the commands below
+
 ```bash
 git clone git@github.com:phitien2810/banksys.git
 cd banksys
