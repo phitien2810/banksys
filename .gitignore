@@ -1,0 +1,12 @@
+# Dependency directories
+/node_modules
+/dist
+
+# Editor directories and files
+/.vscode
+/.idea
+/.editorconfig
+
+# Operating System files
+.DS_Store
+Thumbs.db
